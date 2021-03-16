@@ -10,7 +10,7 @@ Welcome to Jinbo's Brain Book's documentation!
    :maxdepth: 2
    :caption: Contents:
    
-   qsiprep/hello
+   qsiprep/MRtrix
 
 
 Indices and tables
