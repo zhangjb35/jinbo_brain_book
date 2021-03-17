@@ -51,7 +51,7 @@ templates_path = ['_templates']
 master_doc = 'index'
 
 # General information about the project.
-project = u'Recommonmark'
+project = u'Jinbo\'s Brain Book'
 copyright = u'2015, Luca Barbato, Eric Holscher, and contributors'
 author = u'Luca Barbato, Eric Holscher, and contributors'
 
