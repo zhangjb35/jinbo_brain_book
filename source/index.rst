@@ -10,7 +10,8 @@ Welcome to Jinbo's Brain Book's documentation!
    :maxdepth: 2
    :caption: Contents:
    
-   qsiprep/MRtrix
+   dMRI/dMRI.md
+   mrtrix3/MRtrix.md
 
 
 Indices and tables
