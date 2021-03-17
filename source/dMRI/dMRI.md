@@ -1,3 +1,1 @@
-# MRtrix
-## 初印象
-MRtrix is a software package for analyzing diffusion data. One of the notable advantages of MRtrix over tensor-fitting techniques is their method of constrained spherical deconvolution, or CSD; this method deconvolves the diffusion signal in each voxel into a series of overlapping fiber bundles. This reduces the problem of crossing fibers that can be a confound when fitting a tensor. In addition to a library of commands created by the MRtrix team, the software also has wrappers for commands used with FSL: in particular, the commands topup and eddy. If you haven’t already, download and install the fMRI software package FSL.
+# dMRI
